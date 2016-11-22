@@ -1,15 +1,15 @@
 package jtCode;
 /*probabilidades: 
-Animal			Suceso 		Probabilidad  Movimiento
----------------------------------------------------
-Tortuga	|	Avance rápido	|	50%		|	 +3 
-	   	|	Resbaló			|	20%		|	 -6 
-	   	|	Avance lento 	| 	30% 	|	 +1 
-Liebre 	|	Duerme			|	20%		|	  0
-	   	|	Gran salto		|	20%		|	 +9 
-	   	|	Resbalón grande	|	10% 	|	 -12 
-	   	|	Pequeño salto	|	30%		|	 +1 
-		|	Resbalón pequeño|	20%		|	 -2 
+Animal		Suceso 		Probabilidad 	 Movimiento
+-------------------------------------------------------------
+Tortuga	 | Avance rápido	|	50%	|	 +3 
+	 |	Resbaló		|	20%	|	 -6 
+	 |	Avance lento 	| 	30% 	|	 +1 
+Liebre 	 |	Duerme		|	20%	|	  0
+	 |	Gran salto	|	20%	|	 +9 
+	 |	Resbalón grande	|	10% 	|	 -12 
+	 |	Pequeño salto	|	30%	|	 +1 
+	 |	Resbalón pequeño|	20%	|	 -2 
 		
 Si ambos llegan a la vez declare un empate*/
 //Autor: Julián Troyano Domínguez
