@@ -89,7 +89,7 @@ class Carrera {
 		}
 	}
 	
-	public synchronized void mostrarEstadoCarrera(){
+	public void mostrarEstadoCarrera(){
 		System.out.println("Posición liebre: "+posLiebre);
 		System.out.println("Posicion tortuga: "+posTortuga);
 		for (int i = 0; i < duraccion; i++) {
